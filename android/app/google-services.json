@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "44975379079",
+    "project_id": "food-app-3ee41",
+    "storage_bucket": "food-app-3ee41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44975379079:android:bbab1e229018ee93029e22",
+        "android_client_info": {
+          "package_name": "com.mubaraktech.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44975379079-f9dl2lh3qapuohoni2qu5l1j0e4v77hr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa9pA8XiRsA_KYx-cUYwxaM2rkkzTEVDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44975379079-f9dl2lh3qapuohoni2qu5l1j0e4v77hr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "44975379079-3m1406081a3afeqf6h8dn81gu3gghh8k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mubaraktech.delivery"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
